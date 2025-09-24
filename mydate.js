@@ -48,5 +48,5 @@ class MyDate {
 
 const d1 = new MyDate(1, 1, 2020);
 const d2 = new MyDate(2, 1, 2020);
-console.log(d1.printDay()); // 1.1.2020
-console.log(d1.earlier(d2)); // true
+console.log(d1.printDay());
+console.log(d1.earlier(d2));
